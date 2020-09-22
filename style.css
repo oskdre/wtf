@@ -1,0 +1,30 @@
+body {
+    background: #bbc0bf;
+}
+
+h1 {
+    color:blue;
+}
+
+p {
+    color: #3e1c5a;
+}
+
+.main-header{
+    color: black;
+}
+
+#important-article{
+    color:hotpink;
+}
+
+.menu-position {
+    color: black;
+}
+
+.registration-plan-position {
+    font-weight: bold;   
+    font-size: 25px;
+}
+
+
